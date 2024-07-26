@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.rating span {
+    margin: 0.1rem;
+}
+
+body {
+    font-family: 'Hubballi', cursive;
+}
